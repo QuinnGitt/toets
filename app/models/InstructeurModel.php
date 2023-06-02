@@ -63,4 +63,4 @@ class InstructeurModel
     
         return $this->db->resultSet();
     }
-} // klaa
+} // klaar
