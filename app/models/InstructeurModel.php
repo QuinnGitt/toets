@@ -64,4 +64,3 @@ class InstructeurModel
         return $this->db->resultSet();
     }
 }
-// KLAAR
